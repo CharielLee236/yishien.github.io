@@ -6,7 +6,7 @@ description: A simple portfolio template built with Jekyll
 url: "https://github.com/CharielLee236/yishien.github.io/edit/main"
 
 # Build settings
-theme: Jekyll 
+theme: minima
 plugins:
   - jekyll-feed
 
