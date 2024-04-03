@@ -26,9 +26,4 @@ I'm a Digital Media Technology student from Xiamen University Malaysia seeking i
   November 2017  
   - Organized a gaming competition "Honor of Kings" on Curriculum Day.
 
-## Contact Me
-
-- **Email:** leeyishien43@gmail.com
-- **Phone:** +60 19-71309983
-- **LinkedIn:** [Yi Shien's LinkedIn Profile](https://www.linkedin.com/in/yi-shien-lee-7715002b4/)
 
