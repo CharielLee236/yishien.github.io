@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: default
 title: About Me
 ---
 
-I'm a Digital Media Technology student from Xiamen University Malaysia seeking internship opportunities in the digital media industry to expand my knowledge and skills.
+# About Me
+
+I am a passionate individual with a strong interest in digital media. Here are some details about my background and experiences:
 
 ## Education
 
@@ -25,5 +27,4 @@ I'm a Digital Media Technology student from Xiamen University Malaysia seeking i
   Secondary School  
   November 2017  
   - Organized a gaming competition "Honor of Kings" on Curriculum Day.
-
 
