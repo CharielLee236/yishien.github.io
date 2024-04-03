@@ -3,8 +3,6 @@ layout: page
 title: About Me
 ---
 
-# About Me
-
 I'm a Digital Media Technology student from Xiamen University Malaysia seeking internship opportunities in the digital media industry to expand my knowledge and skills.
 
 ## Education
