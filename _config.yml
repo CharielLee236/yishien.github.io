@@ -1,5 +1,13 @@
+# _config.yml
+
 title: Lee Yi Shien
-#logo: /assets/img/
-#Description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+description: My portfolio 
+theme: minima
+plugins:
+  - jekyll-feed
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
+
