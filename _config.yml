@@ -1,13 +1,1 @@
-# _config.yml
-
-title: Lee Yi Shien
-description: My portfolio 
-theme: minima
-plugins:
-  - jekyll-feed
-
-collections:
-  projects:
-    output: true
-    permalink: /projects/:title/
 
