@@ -1,5 +1,3 @@
-# contact
-
 ---
 layout: page
 title: Contact
