@@ -1,18 +1,7 @@
 # _config.yml
 
-# Site settings
-title: Your Portfolio Title
-description: A simple portfolio template built with Jekyll
-url: "https://github.com/CharielLee236/yishien.github.io/edit/main"
-
-# Build settings
+title: Yi Shien's Portfolio
+description: A portfolio showcasing Yi Shien's work and experiences in digital media.
 theme: minima
 plugins:
   - jekyll-feed
-
-# Collections
-collections:
-  projects:
-    output: true
-    permalink: /projects/:title/
-
