@@ -1,4 +1,3 @@
-# about
 
 ---
 layout: page
