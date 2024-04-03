@@ -1,8 +1,10 @@
 ---
 layout: page
+title: About Me
+layout: page
+title: About Me
+description: "I'm a Digital Media Technology student from Xiamen University Malaysia seeking internship opportunities in the digital media industry to expand my knowledge and skills."
 ---
-
-I'm a Digital Media Technology student from Xiamen University Malaysia seeking internship opportunities in the digital media industry to expand my knowledge and skills.
 
 ## Education
 
